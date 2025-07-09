@@ -11,9 +11,10 @@
     width: 160px;
     height: 160px;
     border-radius: 50%;
-    border: 2px solid #000;
+    border: 2px solid var(--corSecundaria);
 }
 
 .name{
     font-size: 18px;
+    color: var(--corSecundaria);
 }
